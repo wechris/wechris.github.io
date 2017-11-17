@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+
+title: wechris Blog
+
+#email: your-email@example.com
+#description
+# >- this means to ignore newlines until "baseurl:"
+description: 
+  Welcome to my personal Blog.
+  My place where I collect my ideas and notes about
+  (SAP, Java, Security, JavaScript, DevOps, …) 
+  and more things that I found interesting.
