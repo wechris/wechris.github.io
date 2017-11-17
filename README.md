@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+### [Tips and Tutorials](https://wechris.github.io/tips-tutorials/)
+
 You can use the [editor on GitHub](https://github.com/wechris/wechris.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 install the Bundler `gem install bundler`
