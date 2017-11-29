@@ -23,3 +23,5 @@ run local  `bundle exec jekyll serve`
 install git-pages `gem install github-pages`
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+I give this plugin two :+1:!
