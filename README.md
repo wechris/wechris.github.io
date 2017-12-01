@@ -9,4 +9,4 @@ and more things that I found interesting.
 
 ### [Tips and Tutorials](https://wechris.github.io/tips-tutorials/)
 
- :+1:!
+ :+1:
