@@ -4,7 +4,7 @@ My place where I collect my ideas and notes about
 
 (SAP, Java, Security, JavaScript, DevOps, …) 
 
-and more things that I found interesting.
+and more things I found interesting.
 
 
 ### [Tips and Tutorials](https://wechris.github.io/tips-tutorials/)
