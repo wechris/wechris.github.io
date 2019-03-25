@@ -1,10 +1,10 @@
 ## Welcome to GitHub Pages
 
-My place where I collect my ideas and notes about
+My place where I collect ideas and notes about
 
-(SAP, Java, Security, JavaScript, DevOps, …) 
+(SAP, Java, Security, JavaScript, DevOps, Programming, …)
 
-and more things I find interesting.
+and more things I'm interessted in.
 
 
 ### [Tips and Tutorials](https://wechris.github.io/tips-tutorials/)
